@@ -1,0 +1,14 @@
+1.万能头文件#include<bits/stdc++.h>
+using namespace std;
+2.开大整数#define int long long
+3.main函数正常运行 signed main(){
+   4.关流（加快io速度） ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+
+    5.一定要return//return 0;
+}
+
+我见到的一些常见使用
+#define pii pair<int,int>
+pair<string,int>  "yangjinbo   5"
